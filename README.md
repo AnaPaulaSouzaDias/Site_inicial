@@ -1,5 +1,5 @@
 
-Este é um site que mostra o perfil principal da criadora e uma pagina com aulas e videos de aulas que podem ser assitidos.
+Este é um site que mostra o perfil principal da criadora e uma pagina com indicação de aulas sobre desenvolvimento que podem ser assitidos.
 
 <p align="center">
     <a href="README-pt.md">Portuguese</a>
@@ -25,7 +25,7 @@ Este projeto usou as seguintes tecnologias
 * [Javascript]   
      
 # Clonar repositorio
-$ git clone https://github.com/AnaPaulaSouzaDias/FinancasRocketseat
+$ git clone https://github.com/AnaPaulaSouzaDias/Site_inicial
 
 
 Feito com amor por [Ana Paula Souza Dias](https://github.com/AnaPaulaSouzaDias) 🚀.
