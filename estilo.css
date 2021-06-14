@@ -31,7 +31,6 @@ header{
 .links a:hover{
   color:rgb(177, 212, 235);
   transition: color 200ms;
-
 }
 #wrapper{
   text-align: center;
